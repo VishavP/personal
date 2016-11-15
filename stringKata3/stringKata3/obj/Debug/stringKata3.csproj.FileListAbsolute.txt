@@ -1,0 +1,13 @@
+I:\GitHubRepos\stringKata3\stringKata3\bin\Debug\stringKata3.dll.config
+I:\GitHubRepos\stringKata3\stringKata3\bin\Debug\stringKata3.dll
+I:\GitHubRepos\stringKata3\stringKata3\bin\Debug\stringKata3.pdb
+I:\GitHubRepos\stringKata3\stringKata3\bin\Debug\Machine.Fakes.Adapters.NSubstitute.dll
+I:\GitHubRepos\stringKata3\stringKata3\bin\Debug\Machine.Fakes.dll
+I:\GitHubRepos\stringKata3\stringKata3\bin\Debug\Machine.Specifications.Clr4.dll
+I:\GitHubRepos\stringKata3\stringKata3\bin\Debug\Machine.Specifications.dll
+I:\GitHubRepos\stringKata3\stringKata3\bin\Debug\Machine.Specifications.Should.dll
+I:\GitHubRepos\stringKata3\stringKata3\bin\Debug\Machine.Specifications.TDNetRunner.dll
+I:\GitHubRepos\stringKata3\stringKata3\bin\Debug\NSubstitute.dll
+I:\GitHubRepos\stringKata3\stringKata3\bin\Debug\nunit.framework.dll
+I:\GitHubRepos\stringKata3\stringKata3\obj\Debug\stringKata3.dll
+I:\GitHubRepos\stringKata3\stringKata3\obj\Debug\stringKata3.pdb

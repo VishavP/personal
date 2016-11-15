@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ISTestModelStoreContainer" CdmEntityContainer="ISTestEntities">
+    <EntitySetMapping Name="Accounts">
+      <EntityTypeMapping TypeName="ISTestModel.Account">
+        <MappingFragment StoreEntitySet="Accounts">
+          <ScalarProperty Name="code" ColumnName="code" />
+          <ScalarProperty Name="person_code" ColumnName="person_code" />
+          <ScalarProperty Name="account_number" ColumnName="account_number" />
+          <ScalarProperty Name="outstanding_balance" ColumnName="outstanding_balance" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Persons">
+      <EntityTypeMapping TypeName="ISTestModel.Person">
+        <MappingFragment StoreEntitySet="Persons">
+          <ScalarProperty Name="code" ColumnName="code" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="surname" ColumnName="surname" />
+          <ScalarProperty Name="id_number" ColumnName="id_number" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Transactions">
+      <EntityTypeMapping TypeName="ISTestModel.Transaction">
+        <MappingFragment StoreEntitySet="Transactions">
+          <ScalarProperty Name="code" ColumnName="code" />
+          <ScalarProperty Name="account_code" ColumnName="account_code" />
+          <ScalarProperty Name="transaction_date" ColumnName="transaction_date" />
+          <ScalarProperty Name="capture_date" ColumnName="capture_date" />
+          <ScalarProperty Name="amount" ColumnName="amount" />
+          <ScalarProperty Name="description" ColumnName="description" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,1 @@
+I:\GitHubRepos\stringCalc\stringCalc\obj\Debug\stringCalc.csprojResolveAssemblyReference.cache
